@@ -1,3 +1,5 @@
+# Modules 
+import time 
 
 # Create an empty to-do list
 todo_list = []
@@ -42,6 +44,7 @@ while True:
         remove_task(task)
     elif choice == "3":
         display_tasks()
+        time.sleep(2)
     elif choice == "4":
         print("Goodbye!")
         break
