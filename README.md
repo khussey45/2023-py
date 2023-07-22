@@ -1,2 +1,2 @@
 # 2023-py
-Basics of python to Deep Learning Neural Networks
+Basics of Python to Deep Learning Neural Networks
