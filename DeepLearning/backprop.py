@@ -14,7 +14,7 @@ weights2 = torch.randn(2, 1, requires_grad=True)
 bias2 = torch.randn(1, 1, requires_grad=True)
 
 # Learning rate
-learning_rate = 0.01
+learning_rate = 0.03 # make sure it's not too big 
 
 # Training loop
 for i in range(100):
